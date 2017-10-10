@@ -1,2 +1,3 @@
 # PIP requirements file.
 BeautifulSoup
+requests
